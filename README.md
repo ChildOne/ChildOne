@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ChildOne
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any projects and be apart of a new community 
+- 📫 How to reach me... not sure how this work.. I am new sorry lol
 
 <!---
 ChildOne/ChildOne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,5 +26,5 @@ I have been studying 18 hours a day, I started from complete scratch. I dont hav
                                      LABS,  OR  PROJECTS  TO  TRY.  THINKING  ABOUT  BUYING 
                                          A  NEW  RASPBERRY  Pi.  ANY  KNOWLEDGE  WOULD BE 
                                               GREAT!   THANK   YOU   AGAIN  MY  FRIENDS
-                                                 H  A  V  E    N  I  C  E    D  A  Y 
+                                                 H  A  V  E   N  I  C  E    D  A  Y 
 
